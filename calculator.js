@@ -7,5 +7,5 @@ function calculate(){
     display.value=eval(display.value);
 }
 function clearDisplay(){
-    display.value="0";
+    display.value=" ";
 }
